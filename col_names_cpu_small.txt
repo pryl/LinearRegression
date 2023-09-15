@@ -1,0 +1,13 @@
+lread
+lwrite
+scall 
+sread 
+swrite
+fork  
+exec  
+rchar 
+wchar  
+runqsz
+freemem
+freeswap
+usr 
